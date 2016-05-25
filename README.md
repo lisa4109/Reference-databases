@@ -1,5 +1,5 @@
 # Reference-databases Metabarpark
-Reference databases in fasta format for Euaryotic metabarcoding
+Reference databases in fasta format for Eukaryotic metabarcoding
 
 We are working on DNA-metabarcoding of marine benthic communities.
 We are using a motley array of scripts  and utilities from diverse sources.
